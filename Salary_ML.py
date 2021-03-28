@@ -12,7 +12,7 @@ def clean_data(df):
     df - pandas dataframes
 
     OUTPUT
-    X - A matrix holding all of the variables you want to consider when predicting the response
+    X - A matrix holding all of the variable you want to consider when predicting the response
     y - the corresponding response vector
 
     This function cleans df using the following steps to produce X and y:
