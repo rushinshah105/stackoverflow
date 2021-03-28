@@ -9,7 +9,7 @@ import seaborn as sns
 def clean_data(df):
     '''
     INPUT
-    df - pandas dataframe
+    df - pandas dataframes
 
     OUTPUT
     X - A matrix holding all of the variables you want to consider when predicting the response
